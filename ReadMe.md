@@ -116,4 +116,4 @@ Contributions are welcome! If you have suggestions for improvements or encounter
 
 ## License
 
-Specify the license under which the script is made available. Common licenses for open-source projects include MIT, GPL, and Apache 2.0.
+MIT
